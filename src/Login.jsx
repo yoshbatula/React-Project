@@ -1,6 +1,6 @@
 function Login() {
     return (
-        <div className="flex flex-col justify-center items-center bg-blue-400 w-150 h-110 rounded-md">
+        <div className="flex flex-col justify-center items-center bg-blue-400 p-8 rounded-md shadow-lg max-w-md w-full">
             <div>
                 <h1 className="text-white text-2xl mb-4">Login</h1>
             </div>

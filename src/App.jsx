@@ -7,12 +7,11 @@ import Footer from './Footer.jsx'
 import Login from './Login.jsx'
 import Navbar from './navbar.jsx'
 import Food from './food.jsx'
+import Card from './Card.jsx'
 function App() {
   return (
     <div>
-        <Header></Header>
-        <Food></Food>
-        <Footer></Footer>
+        <Card></Card>
     </div>
   );
 }
