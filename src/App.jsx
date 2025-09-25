@@ -6,11 +6,13 @@ import Header from './header.jsx'
 import Footer from './Footer.jsx'
 import Login from './Login.jsx'
 import Navbar from './navbar.jsx'
+import Food from './food.jsx'
 function App() {
   return (
     <div>
-        {/* <Login></Login> */}
-        <Navbar></Navbar>
+        <Header></Header>
+        <Food></Food>
+        <Footer></Footer>
     </div>
   );
 }
