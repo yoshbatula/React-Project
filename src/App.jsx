@@ -11,6 +11,7 @@ import Card from './Card.jsx'
 function App() {
   return (
     <div>
+        <h1>This is the card</h1>
         <Card></Card>
     </div>
   );
