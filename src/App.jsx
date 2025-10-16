@@ -12,6 +12,7 @@ function App() {
   return (
     <div>
         <h1>This is the card</h1>
+        <h1>I don't know what to say</h1>
         <Card></Card>
     </div>
   );
