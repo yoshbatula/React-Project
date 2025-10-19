@@ -15,6 +15,7 @@ function App() {
         <h1>I don't know what to say</h1>
         <h1>just for commits</h1>
         <h1>I don't know</h1>
+        <h1>another for commit</h1>
         <Card></Card>
     </div>
   );
