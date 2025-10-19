@@ -5,6 +5,7 @@ import Card from './Card.jsx';
 
 function Navbar() {
     return(
+        // Navigation with routings
         <BrowserRouter>
             <nav>
                 <ul>
@@ -12,7 +13,8 @@ function Navbar() {
                     <li><Link to='/Card'>Shop</Link></li>
                 </ul>
             </nav>
-
+        
+        {/* Router */}
             <Routes>
                 <Route path='/food' element={<Food />} />
                 <Route path='/Card' element={<Card />} />

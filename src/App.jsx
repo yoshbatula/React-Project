@@ -8,11 +8,12 @@ import Login from './Login.jsx'
 import Navbar from './navbar.jsx'
 import Food from './food.jsx'
 import Card from './Card.jsx'
+import Hooks from './Hooks.jsx'
 function App() {
 
 
     return (
-      <Navbar></Navbar>
+      <Hooks></Hooks>
     );
 
 }
