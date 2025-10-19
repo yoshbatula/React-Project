@@ -10,14 +10,9 @@ import Food from './food.jsx'
 import Card from './Card.jsx'
 function App() {
 
-  const name = "";
 
     return (
-      <>
-        <nav>
-          <Navbar />
-        </nav>
-      </>
+      <Navbar></Navbar>
     );
 
 }

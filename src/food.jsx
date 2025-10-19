@@ -1,4 +1,4 @@
-function food() {
+function Food() {
 
     const food1 = "Biriyani";
     const food2 = "Pizza";
@@ -14,4 +14,4 @@ function food() {
     );
 }
 
-export default food;
+export default Food;
